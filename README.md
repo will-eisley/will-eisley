@@ -1,6 +1,6 @@
 ## Will Eisley
 
-Statistics major (Mathematics concentration), Data Science minor — **UNC Charlotte**, class of 2028.
+Mathematics major (Statistics concentration), Data Science minor — **UNC Charlotte**, class of 2028.
 
 I'm drawn to the applied side — working with real data and figuring out which conclusions it can actually support.
 
