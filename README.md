@@ -1,16 +1,14 @@
-## Hi there 👋
+## Will Eisley
 
-<!--
-**will-eisley/will-eisley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Statistics major (Mathematics concentration), Data Science minor — **UNC Charlotte**, class of 2028.
 
-Here are some ideas to get you started:
+I'm drawn to the applied side — working with real data and figuring out which conclusions it can actually support.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Working with
+
+- **Python** — coursework and personal projects
+- **R** — picked it up in Fall 2026, using it for regression and statistical computing
+
+### Reach me
+
+[LinkedIn](https://www.linkedin.com/in/will-eisley)
